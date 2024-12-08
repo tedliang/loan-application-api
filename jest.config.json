@@ -1,5 +1,6 @@
 {
   "preset": "ts-jest",
   "testEnvironment": "node",
-  "testMatch": ["**/*.test.ts"]
+  "testMatch": ["**/*.test.ts"],
+  "coveragePathIgnorePatterns": ["node_modules", "utils/swagger.ts"]
 }
