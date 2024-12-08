@@ -5,13 +5,6 @@ A RESTful API using Node.js and TypeScript that simulates a basic loan applicati
 finance.
 
 
-## Acknowledgements
-
- - [Understanding Hexagonal Architecture](https://dev.to/xoubaman/understanding-hexagonal-architecture-3gk)
- - [Modern API Development with Node.js, Express, and TypeScript using Clean Architecture](https://dev.to/dipakahirav/modern-api-development-with-nodejs-express-and-typescript-using-clean-architecture-1m77#8-implementing-the-interface-layer)
- - [Testing Express Api with Jest and Supertest](https://dev.to/franciscomendes10866/testing-express-api-with-jest-and-supertest-3gf)
-
-
 ## Authors
 
 - [@tedliang](https://www.github.com/tedliang)
@@ -82,4 +75,12 @@ Find and fix problems in soruce code
 
 - Visit: http://localhost:3000/docs
 - Download OpenAPI specification: http://localhost:3000/docs.json
+
+
+## Acknowledgements
+
+ - [Understanding Hexagonal Architecture](https://dev.to/xoubaman/understanding-hexagonal-architecture-3gk)
+ - [Modern API Development with Node.js, Express, and TypeScript using Clean Architecture](https://dev.to/dipakahirav/modern-api-development-with-nodejs-express-and-typescript-using-clean-architecture-1m77#8-implementing-the-interface-layer)
+ - [Testing Express Api with Jest and Supertest](https://dev.to/franciscomendes10866/testing-express-api-with-jest-and-supertest-3gf)
+
 
