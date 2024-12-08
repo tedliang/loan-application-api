@@ -23,7 +23,7 @@ import { LoanType } from "../service/loanTypes";
  *           type: number
  *           minimum: 0
  *           exclusiveMinimum: true
- *           maximum: 500,000
+ *           maximum: 500000
  *         income:
  *           type: number
  *         interestRate:

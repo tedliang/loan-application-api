@@ -83,7 +83,7 @@ const loanRoutes = (loanService: LoanService): Router => {
 
   /**
    * @openapi
-   * /loans/:id:
+   * /loans/{id}:
    *   put:
    *     tags:
    *       - Loan
@@ -121,7 +121,7 @@ const loanRoutes = (loanService: LoanService): Router => {
 
   /**
    * @openapi
-   * /loans/:id:
+   * /loans/{id}:
    *   delete:
    *     tags:
    *       - Loan
